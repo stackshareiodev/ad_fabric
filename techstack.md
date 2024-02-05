@@ -26,7 +26,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [stackshareiodev/ad_fabric](https://github.com/stackshareiodev/ad_fabric)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|3<br/>Tools used|02/01/24 <br/>Report generated|
+|3<br/>Tools used|02/05/24 <br/>Report generated|
 |------|------|
 </div>
 
